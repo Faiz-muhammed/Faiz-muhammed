@@ -14,7 +14,7 @@
   <img src="https://komarev.com/ghpvc/?username=Faiz-muhammed&style=flat-square&color=blue" alt=""/>
 </div>
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeG9rN2ZncTNvOW0yMmVkdHozMjV2cDV5NDBtbGVxdzN0cW50ZGE3YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JWybLzXs7Hn0JKhSji/giphy.gif" width="600" height="400"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeG9rN2ZncTNvOW0yMmVkdHozMjV2cDV5NDBtbGVxdzN0cW50ZGE3YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JWybLzXs7Hn0JKhSji/giphy.gif" width="400" height="250"/>
 </div>
 
 ### 👨‍💻: About Me : I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
